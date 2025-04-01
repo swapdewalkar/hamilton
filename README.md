@@ -262,7 +262,7 @@ We'd appreciate citing Hamilton by referencing one of the following:
 @inproceedings{DBLP:conf/vldb/KrawczykI22,
   title     = {Hamilton: a modular open source declarative paradigm for high level
                modeling of dataflows},
-  author    = {Stefan Krawczyk and Elijah ben Izzy},
+  author    = {Stefan Krawczyk and Elijah Ben Izzy},
   editor    = {Satyanarayana R. Valluri and Mohamed Za{\"{\i}}t},
   booktitle = {1st International Workshop on Composable Data Management Systems,
                CDMS@VLDB 2022, Sydney, Australia, September 9, 2022},
@@ -276,7 +276,7 @@ We'd appreciate citing Hamilton by referencing one of the following:
 ```bibtex
 @inproceedings{CEURWS:conf/vldb/KrawczykIQ22,
   title     = {Hamilton: enabling software engineering best practices for data transformations via generalized dataflow graphs},
-  author    = {Stefan Krawczyk and Elijah ben Izzy and Danielle Quinn},
+  author    = {Stefan Krawczyk and Elijah Ben Izzy and Danielle Quinn},
   editor    = {Cinzia Cappiello and Sandra Geisler and Maria-Esther Vidal},
   booktitle = {1st International Workshop on Data Ecosystems co-located with 48th International Conference on Very Large Databases (VLDB 2022)},
   pages     = {41--50},

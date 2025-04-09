@@ -7,7 +7,8 @@ name = "sf-hamilton-sdk"
 description = "Hamilton SDK for reading and writing to the Hamilton backend APIs that support the UI."
 authors = [
     {name = "Stefan Krawczyk", email = "stefan@dagworks.io"},
-    {name = "Elijah ben Izzy", email = "elijah@dagworks.io"}
+    {name = "Elijah ben Izzy", email = "elijah@dagworks.io"},
+    {name = "Swapnil Gusani", email = "swapnilgusani@gmail.com"}
 ]
 readme = "README.md"
 keywords = ["hamilton", "dagworks", "observability"]

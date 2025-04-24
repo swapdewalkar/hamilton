@@ -46,19 +46,82 @@ Hamilton brings modularity and structure to any Python application moving data: 
 
 # Installation
 
-Hamilton supports Python 3.8+. We include the optional `visualization` dependency to display our Hamilton DAG. For visualizations, [Graphviz](https://graphviz.org/download/) needs to be installed on your system separately.
+Hamilton supports Python 3.8+. The base installation includes core functionality for defining and executing DAGs.
+
+```bash
+pip install sf-hamilton
+```
+
+## Optional Dependencies
+
+Hamilton offers several optional dependency packages for extended functionality:
+
+### Visualization
+
+To visualize your Hamilton DAG, install the visualization dependencies. Note that [Graphviz](https://graphviz.org/download/) needs to be installed on your system separately.
 
 ```bash
 pip install "sf-hamilton[visualization]"
 ```
 
-To use the Hamilton UI, install the `ui` and `sdk` dependencies.
+### Hamilton UI
+
+To use the Hamilton UI for tracking execution and visualizing results, install the UI and SDK dependencies:
 
 ```bash
 pip install "sf-hamilton[ui,sdk]"
 ```
 
-To try Hamilton in the browser, visit [www.tryhamilton.dev](https://www.tryhamilton.dev/?utm_source=README)
+### Distributed Computing
+
+For scaling your Hamilton workflows with distributed computing frameworks:
+
+```bash
+# For Dask integration
+pip install "sf-hamilton[dask]"
+
+# For Ray integration
+pip install "sf-hamilton[ray]"
+
+# For PySpark integration
+pip install "sf-hamilton[pyspark]"
+```
+
+### Data Validation
+
+For schema validation and data quality checks:
+
+```bash
+pip install "sf-hamilton[pandera]"
+```
+
+### Command Line Interface
+
+To use the Hamilton CLI:
+
+```bash
+pip install "sf-hamilton[cli]"
+```
+
+### Development Tools
+
+For IDE integration and language server support:
+
+```bash
+pip install "sf-hamilton[lsp]"
+```
+
+### Multiple Extensions
+
+You can combine multiple optional dependencies:
+
+```bash
+pip install "sf-hamilton[visualization,dask,pandera]"
+```
+
+### Try Hamilton Online
+
+To try Hamilton in the browser without installation, visit [www.tryhamilton.dev](https://www.tryhamilton.dev/?utm_source=README)
 
 # Why use Hamilton?
 

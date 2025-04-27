@@ -271,6 +271,11 @@ See our page on [Why use Hamilton?](https://hamilton.dagworks.io/en/latest/get-s
 Hamilton is released under the BSD 3-Clause Clear License. See [LICENSE](https://github.com/DAGWorks-Inc/hamilton/blob/main/LICENSE.md) for details.
 
 
+# ✍️ Authors
+
+Hamilton was created by [Stefan Krawczyk](https://github.com/skrawcz) and [Elijah ben Izzy](https://github.com/elijahbenizzy), who founded [DAGWorks Inc](https://www.dagworks.io/) after developing Hamilton at Stitch Fix. The project continues to be maintained by the original authors along with contributions from the open source community.
+
+
 # 🌎 Community
 ## 👨‍💻 Contributing
 We're very supportive of changes by new contributors, big or small! Make sure to discuss potential changes by creating an issue or commenting on an existing one before opening a pull request. Good first contributions include creating an example or an integration with your favorite Python library!

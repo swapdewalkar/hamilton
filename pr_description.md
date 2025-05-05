@@ -1,21 +1,14 @@
-# Update README with Important Dependencies
+# Add Swapnil as Key Contributor in README
 
 ## Description
-This PR updates the README.md file to include more comprehensive information about Hamilton's dependencies and installation options. The changes include:
-
-- Expanded the Installation section with more detailed information
-- Added sections for various optional dependencies with explanations of their purpose
-- Organized dependencies by functionality (visualization, distributed computing, data validation, etc.)
-- Added instructions for combining multiple optional dependencies
-- Maintained the existing information about trying Hamilton online
-
-## Motivation
-Having clear documentation about dependencies helps new users understand what they need to install based on their specific use case, reducing confusion and making it easier to get started with Hamilton.
+This PR adds Swapnil as a key contributor to the Hamilton project by creating a new "Key Contributors" section under the Authors section in the README.md file.
 
 ## Changes
-- Updated the Installation section in README.md to include more detailed dependency information
-- Organized dependencies into logical categories
-- Added examples for installing multiple dependencies together
+- Added a new "Key Contributors" section under the Authors section
+- Added Swapnil with a link to his GitHub profile and a brief description of his contributions
+
+## Motivation
+While Swapnil was already mentioned in the Special Mentions section, his significant contributions to the Hamilton project deserve more prominent recognition in the README.
 
 ## Testing
 No functional changes were made, only documentation updates.

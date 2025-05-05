@@ -275,6 +275,10 @@ Hamilton is released under the BSD 3-Clause Clear License. See [LICENSE](https:/
 
 Hamilton was created by [Stefan Krawczyk](https://github.com/skrawcz) and [Elijah ben Izzy](https://github.com/elijahbenizzy), who founded [DAGWorks Inc](https://www.dagworks.io/) after developing Hamilton at Stitch Fix. The project continues to be maintained by the original authors along with contributions from the open source community.
 
+## Key Contributors
+
+[Swapnil](https://github.com/swapnil) - Data Scientist who has made significant contributions to the Hamilton project.
+
 
 # 🌎 Community
 ## 👨‍💻 Contributing

@@ -16,6 +16,7 @@ conda skeleton pypi $pkg
 for i in "${array[@]}"
 do
 	conda build --python $i $pkg
+	
 done
 # convert package to other platforms
 cd ~

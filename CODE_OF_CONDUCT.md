@@ -1,6 +1,16 @@
 
 # Contributor Covenant Code of Conduct
 
+## Table of Contents
+
+- [Our Pledge](#our-pledge)
+- [Our Standards](#our-standards)
+- [Enforcement Responsibilities](#enforcement-responsibilities)
+- [Scope](#scope)
+- [Enforcement](#enforcement)
+- [Enforcement Guidelines](#enforcement-guidelines)
+- [Attribution](#attribution)
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
@@ -25,6 +35,9 @@ community include:
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the
   overall community
+* Showing patience and support to newcomers
+* Celebrating diversity and seeking to understand different perspectives
+* Using welcoming and inclusive language
 
 Examples of unacceptable behavior include:
 
@@ -57,11 +70,27 @@ Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
+Community spaces include but are not limited to:
+* GitHub repositories and discussions
+* Slack channels and Discord servers
+* Video conferences and virtual meetups
+* In-person events and conferences
+* Social media interactions related to the project
+
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-opensource@dagworks.io.
+reported to the community leaders responsible for enforcement at:
+
+**📧 Email: opensource@dagworks.io**
+
+### Reporting Process
+
+1. **Submit a report** via the email above with details of the incident
+2. **Receive acknowledgment** within 48 hours of your report
+3. **Investigation** will be conducted promptly and fairly
+4. **Resolution** will be communicated to relevant parties
+
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -98,16 +127,15 @@ permanent ban.
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behavior.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+**Consequence**: A temporary ban from any sort of public or private interaction
+or communication with the community for a specified period of time. This includes
+all community spaces and external channels. Violating these terms may lead to a
+permanent ban.
 
 ### 4. Permanent Ban
 
 **Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
+standards, including sustained inappropriate behavior, harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within
